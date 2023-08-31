@@ -1,1 +1,5 @@
-## Curso de Algoritmo e Estrutura de Dados
+## Trabalho de conclusão de Disciplina, feito em grupo
+* Victor Gava 
+* Victor Hugo Rodrigues
+* Nicolas Pereira
+* Gustavo Kuabara
