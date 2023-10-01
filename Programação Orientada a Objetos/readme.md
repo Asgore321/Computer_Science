@@ -6,6 +6,6 @@
 
 * LAB02 - First OOP code
 
-*LAB03 - Class Relations
+* LAB03 - Class Relations
 
-*LAB04 - Inheritance
+* LAB04 - Inheritance
